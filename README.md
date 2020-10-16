@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Programs
 Basic code along sample python programs with Jose Portilla
 
 #1.tic_tac_toe_game.py
